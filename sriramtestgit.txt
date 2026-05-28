@@ -9,5 +9,3 @@ Squash test line 2
 Squash test line 3
 Testing stash feature
 Tag line 1
-Tag line 2
-Tag line 3
