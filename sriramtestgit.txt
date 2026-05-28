@@ -5,3 +5,4 @@ Test git pull by making changes here and see if its gets reflected
 Remote change to test git pull --rebase
 Local change to test git pull --rebase
 Squash test line 1
+Squash test line 2
