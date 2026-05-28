@@ -6,3 +6,4 @@ Remote change to test git pull --rebase
 Local change to test git pull --rebase
 Squash test line 1
 Squash test line 2
+Squash test line 3
